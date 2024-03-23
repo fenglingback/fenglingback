@@ -6,8 +6,8 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/fenglingback">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fenglingback&theme=algolia&include_all_commits=true&count_private=true)" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenglingback&langs_count=8&theme=algolia&hide_progress=true)" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=fenglingback&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenglingback&langs_count=8&theme=algolia&hide_progress=true" />
 </a>
 
 <!---
