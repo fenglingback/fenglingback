@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## Trip
 
 
-<table>
+<table align="center">
   <tr>
     <th>公司</th>
     <th>联系人</th>
