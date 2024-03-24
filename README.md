@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Trip
 
-<p align="center">
-  <table>
+
+<table>
   <tr>
     <th>公司</th>
     <th>联系人</th>
@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
     <td>Italy</td>
   </tr>
 </table>
-</p>
+
 
 <br>
 
