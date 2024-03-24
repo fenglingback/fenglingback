@@ -58,7 +58,7 @@
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>Rust</td>
     <td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td>
     <td></td>
     <td></td>
