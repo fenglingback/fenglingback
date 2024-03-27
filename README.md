@@ -32,7 +32,7 @@
   <tr>
     <td>jinja2</td>
     <td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td>
-    <td>黑玻璃 - 洪嘉豪</td>
+    <td>你要的全拿走 - 胡彦斌</td>
     <td><a href="https://gamma.app/create/generate">gamma</a></td>
     <td>邯郸初中生遇害案</td>
   </tr>
