@@ -43,7 +43,7 @@
       <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/prompt-for-generating-unit-tests-for-your-code">claude3生成单元测试 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
     </tr>
     <tr>
-      <td></td><td></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
+      <td></td><td><a href="https://baoyu.io/translations/prompt-engineering/chatgpt-prompts-for-academic-writing">15个 ChatGPT 学术写作神器提示</a></td><td>及时行乐 - 洪嘉豪</td><td></td><td></td>
     </tr>
     
 </table>
