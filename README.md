@@ -34,7 +34,7 @@
       <td>QT</td><td><a href="https://requests-mock.readthedocs.io/en/latest/overview.html">requests-mock</a></td><td>隔离(Studio Live Duet) - 陈凯咏/林家谦</td><td><a href="https://kimi.moonshot.cn">kimi chat</a></td><td>女子酒店遇害借款未索回</td>
     </tr>
     <tr>
-      <td>Node.js</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td></td>
+      <td>Node.js</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td>萝卜大叔讨薪</td>
     </tr>
     <tr>
       <td>kotlin</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>给缺席的人唱首歌 - 冯允谦</td><td></td><td></td>
