@@ -37,7 +37,7 @@
       <td>Node.js</td><td><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td>爱情悬崖 - 周杰伦</td><td></td><td>萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>I Don't Know - SEVENTEEN</td><td></td><td></td>
+      <td>Rust</td><td><a href="https://baoyu.io/blog/prompt-engineering/translator-gpt-prompt-v2">三步翻译 prompt</a></td><td>一刹那的烟火（沦陷版） - 陈小满/庄淇文29</td><td></td><td></td>
     </tr>
     <tr>
       <td></td><td><a href="https://baoyu.io/blog/prompt-engineering/three-ai-agents-and-four-steps-flow-prompt">五步翻译 prompt</a></td><td></td><td></td><td></td>
