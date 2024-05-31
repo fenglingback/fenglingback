@@ -17,7 +17,7 @@
 - :muscle: Lingyun Ye(夜凌云) FanBoi：卑鄙只是弱者的伎俩，真正的强者根本不屑为之
 - :robot: Follow the Wave of AI and Look Forward to AGI
 - :fire:  All kinds of fire music, <i>enjoying Phonk lately</i>
-- <img src="https://emojisup.org/images/emoji/twitter/twemoji-14-0/flag-palestinian-territories@2x.png" width="20" align="center" /> ${\color{green}Don't\ give\ up,\ Palestinian\ !}$
+- <img src="https://github.com/fenglingback/My-Saved-Images/blob/main/Palestine.png?raw=true" width="20" align="center" /> ${\color{green}Don't\ give\ up,\ Palestinian\ !}$
 
 <br>
 
