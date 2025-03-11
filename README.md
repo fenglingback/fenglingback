@@ -32,10 +32,10 @@
       <td align="center"><a href="https://drissionpage.cn">DrissionPage</a></td><td align="center"><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP请求</a></td><td align="center">鸟之诗 - TypeD</td><td align="center"><a href="https://goblin.tools/">GoblinTools</a></td><td align="center">邯郸初中生遇害案</td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/langgenius/dify">Dify</a></td><td align="center"><a href="https://github.com/dwmkerr/hacker-laws">程序员必读的法则、定律</a></td><td align="center">去北极忘记你 - Gareth.T</td><td align="center"><a href="https://gamma.app/create/generate">gamma</a></td><td align="center">萝卜大叔讨薪</td>
+      <td align="center"><a href="https://github.com/langgenius/dify">Dify</a></td><td align="center"><a href="https://github.com/dwmkerr/hacker-laws">程序员必读的法则、定律</a></td><td align="center">去北极忘记你 - Gareth.T</td><td align="center"><a href="https://duckduckgo.com/?q=DuckDuckGo&ia=chat">DDG AI Chat</a></td><td align="center">萝卜大叔讨薪</td>
     </tr>
     <tr>
-      <td align="center">Node.js</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">雨痕 - 魏晨</td><td align="center"><a href="https://duckduckgo.com/?q=DuckDuckGo&ia=chat">DDG AI Chat</a></td><td align="center"></td>
+      <td align="center">Node.js</td><td align="center"><a href="https://github.com/fighting41love/funNLP#%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B">提示工程</a></td><td align="center">雨痕 - 魏晨</td><td align="center"></td><td align="center"></td>
     </tr>
     <tr>
       <td align="center">C++</td><td align="center"><a href="https://realpython.com/primer-on-python-decorators/">decorator</a></td><td align="center">幸存者偏差 - XMASwu吴骜</td><td align="center"></td><td align="center"></td>
